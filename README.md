@@ -67,7 +67,8 @@ Ideal para pequenas turmas, amigos ou equipes.
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/sbrunobar/AMIGO-SECRETO-CHALLENGER
+
 
 
 Abra o index.html no navegador.
